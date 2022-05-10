@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Chuckinairtor
+- 🌱 I’m currently learning java  
+- 📫 You can reach me on Discord: Chucki#2610
