@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Chuckinairtor
-- 🌱 I’m currently learning java  
+- 🌱 I’m currently learning java and script
 - 📫 You can reach me on Discord: Chucki#2610
